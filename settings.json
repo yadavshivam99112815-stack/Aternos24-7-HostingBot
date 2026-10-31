@@ -1,12 +1,12 @@
 {
-  "name": "AFK Bot",
+  "name": "onlinebot",
   "bot-account": {
-    "username": "YourBotUsername",
+    "username": "onlinebot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
+    "ip": "fusioncraft.mcsh.gg",
     "port": 25565,
     "version": "",
     "try-creative": false
@@ -73,7 +73,7 @@
   },
   "discord": {
     "enabled": false,
-    "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
+    "webhookUrl": "https://discord.gg/6rmP3SHAe",
     "events": {
       "connect": true,
       "disconnect": true,
@@ -82,6 +82,6 @@
   },
   "chat": {
     "respond": true,
-    "tpWhitelist": ["YourMinecraftUsername"]
+    "tpWhitelist": ["STROM_X"]
   }
 }
